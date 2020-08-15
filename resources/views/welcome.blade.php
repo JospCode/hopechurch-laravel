@@ -366,7 +366,7 @@
                 </div>
             </div>
             <div class="copyright text-center">
-                <p>© 2020 Todos os direitos reservados | Design by <a target="_blank" href="https://portfolio-jhonsilva.000webhostapp.com/"> < Josp.Code /></a> </p>
+                <p>© 2020 Todos os direitos reservados | Design by <a target="_blank" href="https://jospcode.dev/"> < Josp.Code /></a> </p>
             </div>
         </div>
     </footer>
